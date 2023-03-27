@@ -1,13 +1,13 @@
 @font-face{
     font-family: 'Ubuntu';
-    src: url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Bold.ttf') format('truetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-BoldItalic.ttf') format('truetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Italic.ttf') format('truetruetypetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Light.ttf') format('truetruetypetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-LightItalic.ttf') format('truetruetypetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetruetypetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-MediumItalic.ttf') format('truetruetypetype'),
-         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetruetypetype');
+    src: url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Bold.ttf') format('truetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-BoldItalic.ttf') format('truetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Italic.ttf') format('truetruetypetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Light.ttf') format('truetruetypetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-LightItalic.ttf') format('truetruetypetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetruetypetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-MediumItalic.ttf') format('truetruetypetype'),
+         url('../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetruetypetype');
     font-weight: normal;
     font-style: normal;
     }
