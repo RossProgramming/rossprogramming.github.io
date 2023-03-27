@@ -1,3 +1,17 @@
+@font-face{
+    font-family: 'Ubuntu';
+    src: url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Bold.ttf') format('truetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-BoldItalic.ttf') format('truetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Italic.ttf') format('truetruetypetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Light.ttf') format('truetruetypetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-LightItalic.ttf') format('truetruetypetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetruetypetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-MediumItalic.ttf') format('truetruetypetype'),
+         url('../../rossprogramming.github.io/fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetruetypetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
 body {
     /* Use a slightly darker background */
     background-color: rgb(200, 200, 200);
@@ -6,18 +20,20 @@ body {
     padding: 2%;
 }
 
-.logo-img {
-    /* Resize img according to page width */
-    width: 60%;
-}
-
 .coming-soon {
+    width: 80%;
     /* Center the div */
     position: absolute;
     top: 50%;
     left: 50%;
     /* Center on middle of the div */
     transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.logo-img {
+    /* Resize img according to page width */
+    width: 60%;
 }
 
 footer {
